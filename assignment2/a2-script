@@ -1,0 +1,52 @@
+Question 1 - me7
+VEHICLE_ID    
+---------------
+0a              
+0b              
+0c              
+
+Question 2 - me7
+NAME                                     ADDR                                             
+---------------------------------------- --------------------------------------------------
+alpha                                    Edmonton                                           
+
+Question 3 - me7
+LICENCE_NO      NAME                                   
+--------------- ----------------------------------------
+222             beta                                     
+333             theta                                    
+
+Question 4 - me7
+NAME                                   
+----------------------------------------
+alpha                                    
+
+Question 5 - me7
+TYPE       S_DATE      AVGPRICE
+---------- --------- ----------
+SUV        01-JAN-12      25000 
+SUV        01-JAN-11      30000 
+Car        01-JAN-11      10000 
+
+Question 6 - me7
+NAME                                   
+----------------------------------------
+gamma                                    
+
+Question 7 - me7
+SIN             NAME                                     ADDR                                             
+--------------- ---------------------------------------- --------------------------------------------------
+0004            omega                                    Red deer                                           
+
+Question 8 - me7
+view VEHICLE_HISTORY dropped.
+view VEHICLE_HISTORY created.
+
+Question 9 - me7
+SIN             NAME                                   
+--------------- ----------------------------------------
+0004            omega                                    
+0003            theta                                    
+0001            alpha                                    
+
+
